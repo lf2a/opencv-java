@@ -6,6 +6,11 @@ Object detection examples.
 
 [https://riptutorial.com/opencv/example/22915/template-matching-with-java](https://riptutorial.com/opencv/example/22915/template-matching-with-java)
 
+# Linux
+```shell
+sudo apt-get install libopencv-dev
+```
+
 # Image
 
 ![source](./src/main/resources/example.png)
